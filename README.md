@@ -146,3 +146,7 @@ Here is a list of the **30 most common HR interview questions** along with detai
     - **Answer:** Ask thoughtful questions.
     - **Example:** "What are the key goals for this position in the next 6 months?"
 
+
+## Authors
+
+- [@codehariom](https://www.linkedin.com/in/realhariom)
